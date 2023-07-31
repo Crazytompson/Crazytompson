@@ -1,0 +1,31 @@
+  		<table width="1440px" class="list">
+  			<tr><td class='H' align="center" colspan="12"><h3>商品采购明细表<h3></td></tr>
+  			<tr><td colspan="12">日期：2023-07-01至2023-07-24</td></tr>
+  		</table>
+  		<table width="1440px" class="list" border="1">
+  			<thead>
+  				<tr>
+  				<th>采购日期</th>
+  				<th>采购单据号</th>
+  				<th>业务类别</th>
+  				<th>供应商</th>
+  				<th>商品编号</th>
+  				<th>商品名称</th>
+  				<th>规格型号</th>
+  				<th>单位</th>
+  				<th>仓库</th>
+  				<th>数量</th>
+  				<th>单价</th>
+  				<th>采购金额</th>
+  				</tr>
+  			</thead>
+  			<tbody>
+				   				<tr>
+					<td colspan="9" class="R B">合计：</td>
+					<td class="R B"></td>
+					<td class="R B">0</td>
+					<td class="R B"></td>
+  				</tr>
+  			</tbody>
+  		</table>
+ 
