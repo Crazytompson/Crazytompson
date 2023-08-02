@@ -1,0 +1,16 @@
+{
+  "name": "shopeo/se-baidu-map-point",
+  "autoload": {
+	"psr-4": {
+	  "Shopeo\\SeBaiduMapPoint\\": "src/"
+	}
+  },
+  "homepage": "https://shopeo.cn",
+  "authors": [
+	{
+	  "name": "shopeo",
+	  "email": "hello@shopeo.cn"
+	}
+  ],
+  "require": {}
+}
